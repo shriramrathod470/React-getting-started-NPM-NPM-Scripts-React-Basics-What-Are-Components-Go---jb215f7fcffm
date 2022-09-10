@@ -5,9 +5,12 @@ function Welcome(props){
 return
 (
     <div>
-            <h1>Hey !{props.name}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </h1>
-            <h1>{props. welcome}</h1>
+            {/* <h1>hello world</h1> */}
+            <h1>Hey !{props.name} </h1> 
+            <h1>"Welcome to Newton School."</h1> 
+  
     </div>
+          
 )
 }
 export default Welcome;

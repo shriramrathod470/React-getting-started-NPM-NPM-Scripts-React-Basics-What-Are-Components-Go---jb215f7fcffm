@@ -4,7 +4,7 @@ import Welcome from './Welcome';
 
 const App = () => {
   return (
-    <Welcome name="Shriram"  welcome = "Welcome to Newton School."/>
+    <Welcome name="Shriram" />
   )
 }
 
